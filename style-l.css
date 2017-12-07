@@ -35,6 +35,12 @@ header {
     overflow: hidden;
 }
 
+
+#all {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
 .post {
     margin-bottom: 30px;
     overflow: hidden;
