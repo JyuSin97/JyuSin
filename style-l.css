@@ -235,7 +235,7 @@ nav li a:hover {
 #headerpost img {
     float: left;
     vertical-align: bottom;
-    width: 620px;
+    width: 960px;
 }
 
 
@@ -253,17 +253,17 @@ nav li a:hover {
 /*  HEADERPOST LEAD*/
 
 #headerpost #lead {
-    float: left;
+    float:right;
     width: 300px;
     color: #ffffff;
     margin-left: 25px;
 }
 
 #headerpost h2 {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
-#headerpost .more {
+#headerpost .lead {
     font-size: 18px;
     font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
     text-align: right;
