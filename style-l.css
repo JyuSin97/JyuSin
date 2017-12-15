@@ -256,19 +256,11 @@ nav li a:hover {
     float:right;
     width: 300px;
     color: #ffffff;
-    margin-left: 25px;
 }
 
 #headerpost h2 {
     margin: 10px 0;
 }
-
-#headerpost .lead {
-    font-size: 18px;
-    font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
-    text-align: right;
-}
-
 
 
 /* 用CSS寫按鈕!!!這邊先暫且依樣畫葫蘆，之後會教大家Bootstrap，就不用用CSS刻很久了*/
